@@ -20,5 +20,7 @@ export default defineComponent({
 </script>
 
 <style scoped>
-
+  * {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
 </style>
