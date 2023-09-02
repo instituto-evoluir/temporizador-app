@@ -20,11 +20,5 @@ export default defineComponent({
 </script>
 
 <style scoped>
-  p, span {
-    font-family: 'Times', Tahoma, Verdana, sans-serif;
-  }
-  
-  h1 { font-weight: bolder; }
-  footer { font-size: 8px; }
-  .xurupitas { color: red; }
+  .xurupitas { color: black; }
 </style>
