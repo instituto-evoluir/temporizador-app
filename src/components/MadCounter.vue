@@ -21,8 +21,10 @@ export default defineComponent({
 
 <style scoped>
   p, span {
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-family: 'Times', Tahoma, Verdana, sans-serif;
   }
-
+  
   h1 { font-weight: bolder; }
+  footer { font-size: 8px; }
+  .xurupitas { color: red; }
 </style>
