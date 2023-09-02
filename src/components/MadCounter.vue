@@ -20,7 +20,10 @@ export default defineComponent({
 </script>
 
 <style scoped>
-  * {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  body {
+    font-family: 'Times', Tahoma, Geneva, Verdana, sans-serif;
   }
+  
+  footer { font-size: 8px; }
+  .xurupitas { color: red; }
 </style>
