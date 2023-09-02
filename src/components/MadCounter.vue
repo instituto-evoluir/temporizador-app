@@ -20,7 +20,9 @@ export default defineComponent({
 </script>
 
 <style scoped>
-  * {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  p, span {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
   }
+
+  h1 { font-weight: bolder; }
 </style>
