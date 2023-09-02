@@ -1,6 +1,6 @@
 <template>
     <aside>
-        <Controls message="lorem ipsum."/>
+        <Controls message="lorem ipsum." />
     </aside>
     <section>
         <div id="couter">Contador: <span id="counterValue">1</span></div>
